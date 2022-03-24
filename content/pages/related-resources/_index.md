@@ -33,7 +33,7 @@ TEACHING VIDEOS
 Dr. Chandrima Mukhopadhyay
 {{< tdclose >}}
 {{< tdopen >}}
-"![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Public Transport and Bus Rapid Transit as a Tool of Decarbonization in Malaysia (PDF - 1.9MB)](https://malaysiacities.mit.edu/sites/default/files/documents/chandrima.pdf)"
+"[Public Transport and Bus Rapid Transit as a Tool of Decarbonization in Malaysia (PDF - 1.9MB)](https://malaysiacities.mit.edu/sites/default/files/documents/chandrima.pdf)"
 {{< tdclose >}}
 {{< tdopen >}}
 "[Bus Rapid Transit as a Tool for Decarbonization in Malaysia](https://vimeo.com/276927275)"
@@ -175,7 +175,7 @@ Dr. Rasha Sayed
 Dr. Felix Olorunfemi
 {{< tdclose >}}
 {{< tdopen >}}
-"![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Drivers of Wetland Use in Temerloh District, Pahang, Malaysia (PDF)](https://malaysiacities.mit.edu//sites/default/files/documents/Olorunfemi.pdf)"
+"[The Drivers of Wetland Use in Temerloh District, Pahang, Malaysia (PDF)](https://malaysiacities.mit.edu//sites/default/files/documents/Olorunfemi.pdf)"
 {{< tdclose >}}
 {{< tdopen >}}
 "[Drivers of Wetland Use in Temerloh District, Malaysia](https://vimeo.com/218845140)"
@@ -187,7 +187,7 @@ Dr. Felix Olorunfemi
 Dr. Gulsan Ara Parvin
 {{< tdclose >}}
 {{< tdopen >}}
-"![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Flood Resilience of Temerloh Municipal Council: An Emperical Analysis of Kampung Level Variations (PDF - 1.8MB)](https://malaysiacities.mit.edu//sites/default/files/documents/gulsan.pdf)"
+"[Flood Resilience of Temerloh Municipal Council: An Emperical Analysis of Kampung Level Variations (PDF - 1.8MB)](https://malaysiacities.mit.edu//sites/default/files/documents/gulsan.pdf)"
 {{< tdclose >}}
 {{< tdopen >}}
 "[Variation in Flood Resilience in Temerloh Municipal Council, Malaysia](https://vimeo.com/218990292)"
@@ -199,7 +199,7 @@ Dr. Gulsan Ara Parvin
 Dr. Minal Pathak
 {{< tdclose >}}
 {{< tdopen >}}
-"![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Whose Opinion Matters: Lessons from a Stakeholder Engagement Process for Penang, Malaysia (PDF)](https://malaysiacities.mit.edu//sites/default/files/documents/Pathak.pdf)"
+"[Whose Opinion Matters: Lessons from a Stakeholder Engagement Process for Penang, Malaysia (PDF)](https://malaysiacities.mit.edu//sites/default/files/documents/Pathak.pdf)"
 {{< tdclose >}}
 {{< tdopen >}}
 "[What Makes for an Effective Public Engagement Process? Lessons from Penang, Malaysia](https://vimeo.com/221918422)"
