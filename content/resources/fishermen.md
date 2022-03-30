@@ -11,6 +11,7 @@ image_metadata:
     by Sera Tolgay.
   image-alt: A  man in a white shirt and a red hat sorts through fish and shrimp on
     a counter. A few men stand around him.
+parent_uid: cb99f732-153d-3c8b-0183-be1f42376728
 resourcetype: Image
 title: fishermen.jpg
 uid: 227d6c31-7f60-528c-a4b6-48591b2ec19b
